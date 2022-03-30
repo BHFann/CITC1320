@@ -1,5 +1,6 @@
 ## CITC 1320/WEBT 1320 Project Page
 
 <h1>Project List</h1>
-
-<a href ="Project 1/index.html"> Project 1</a>
+<ul>
+    <li><a href="lab 2/index.html" target="_blank">Lab 2</a></li>
+</ul>
