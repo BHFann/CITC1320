@@ -12,10 +12,11 @@ img {
 }
 
 header {
-    background-image: url('/images/Pumpkin.jpg');
+    background-image: url('../images/Pumpkin.jpg');
     background-size: cover;
     border-radius: 14px;
     background-position: center;
+    display: block;
 }
 
 audio, video {
